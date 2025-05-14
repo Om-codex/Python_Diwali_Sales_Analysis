@@ -13,7 +13,7 @@ This project is a data analysis of sales during Diwali using Python, Pandas, and
 ## 📁 Project Structure
 
 - `Python_Diwali_Sales_Analysis.ipynb` – Jupyter Notebook with full code and analysis
-- `Diwali Sales Data.csv` – Dataset used for this project *(if included)*
+- `Diwali Sales Data.csv` – Dataset used for this project 
 
 ## 📊 Key Insights
 
@@ -59,4 +59,3 @@ This project is a data analysis of sales during Diwali using Python, Pandas, and
 
 If you have any questions, feel free to reach out via GitHub or LinkedIn.
 
----
